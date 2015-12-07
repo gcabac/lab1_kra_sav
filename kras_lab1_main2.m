@@ -145,7 +145,6 @@ mesh(p31,p32,f3,'UIContextMenu',f2pCM2);
 xlabel('График функции F(p)                     ')
 
 
-% UIWAIT makes kras_lab1_main2 wait for user response (see UIRESUME)
 % uiwait(handles.figure1);
 function plotCircle (xc, yc, R)
 plot(xc + R * cos(0:0.001:2*pi), yc + R * sin(0:0.001:2*pi));
