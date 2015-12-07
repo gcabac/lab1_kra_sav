@@ -2,7 +2,7 @@ function varargout = kras_lab1_main2(varargin)
 % KRAS_LAB1_MAIN2 MATLAB code for kras_lab1_main2.fig
 %      KRAS_LAB1_MAIN2, by itself, creates a new KRAS_LAB1_MAIN2 or raises the existing
 %      singleton*.
-%
+
 %      H = KRAS_LAB1_MAIN2 returns the handle to a new KRAS_LAB1_MAIN2 or the handle to
 %      the existing singleton*.
 %
