@@ -184,7 +184,7 @@ function varargout = kras_lab1_main2_OutputFcn(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Get default command line output from handles structure
+
 varargout{1} = handles.output;
 
 
